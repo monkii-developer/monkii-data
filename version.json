@@ -9,7 +9,7 @@
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/checklist.csv"
     },
     "weather": {
-      "version": "1.0.260709.3",
+      "version": "1.0.260709.4",
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/weather.csv"
     },
     "passport-index": {
