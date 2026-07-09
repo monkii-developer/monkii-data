@@ -1,0 +1,241 @@
+category,sub,item,quantity,unit,brand,product,product-link,description,container-1,container-2,tag-1,tag-2,tag-3,for
+Essentials,,Passport,1,piece,,,,Most important–stay on-body at all time,,Pouch—Essentials,,important,,MOTR
+Essentials,,Passport,1,piece,,,,Most important–stay on-body at all time,On-body,,,important,,public
+Essentials,,Visas,1,piece,,,,Print out approved visa documents,EDC—Sides,Pouch—Essentials,,important,,
+Essentials,,Daily allowance,,,,,,Only bring enough money for day use,,Pouch—Essentials,,important,,MOTR
+Essentials,,Wallet,1,piece,,,,Most important–stay on-body at all time,On-body,,,important,,public
+Essentials,,Backup money,,,,,,Emergency cash,,,backup,important,,
+Essentials,,Glasses pouch,1,pair,,,,With backup glasses,EDC—Main,,backup,,,
+Clothing ,Tops,Long-sleeve shirt,2,piece,,,,Basic shirt for casual travelling,,Container—Clothes,,,,public
+Clothing ,Tops,Short-sleeve shirt,2,piece,,,,Basic shirt for casual travelling,,Container—Clothes,,,,public
+Clothing ,Tops,Long-sleeve quick-dry shirt,2,piece,,,,+1 daily outfit;Recommended for avid travellers,,Container—Clothes,quick-dry,,,
+Clothing ,Tops,T-shirt,2,piece,,,,Basic t-shirt for casual travelling,,Container—Clothes,,,,public
+Clothing ,Tops,Thin long-sleeve t-shirt ,2,piece,,,,Works as undershirt for cold weather;Recommended for avid travellers,,Container—Clothes,,,,
+Clothing ,Tops,Hawaii short-sleeve shirt ,1,piece,,,,,,Container—Clothes,,,,MOTR
+Clothing ,Tops,Sleepwear - top,1,piece,,,,Not in container for quick access & change,Luggage—Main,,pajama,,,
+Clothing ,Bottoms,Quick-dry pant,2,piece,K-tom,,,+1 daily outfit,,Container—Clothes,quick-dry,,,MOTR
+Clothing ,Bottoms,Pant / trouser,2,piece,,,,"Recommend lightweight, quick-dry pants over thick & heavy;For flexibility & saving luggage spaces",,Container—Clothes,,,,public
+Clothing ,Bottoms,Short,2,piece,,,,,,Container—Clothes,,,,public
+Clothing ,Bottoms,Waterproof pant,1,piece,K-tom ,,,Bring along in EDC bag if expecting rain,Luggage—Main,,waterproof,,,MOTR
+Clothing ,Bottoms,Waterproof pant,1,piece,,,,For rainy season,,,waterproof,,,public
+Clothing ,Bottoms,Sleepwear - bottom,1,piece,,Jogger,,Not in container for quick access & change,Luggage—Main,,pajama,,,
+Clothing ,Bottoms,Swimming trunk,1,piece,,,,,,Container—Clothes,,water activities,,MOTR
+Clothing ,Underwear,Swimming trunk,1,piece,,,,,,Container—Clothes,,water activities,,men
+Clothing ,Others,Casual dress,1,piece,,,,,Luggage—Main,,,,,women
+Clothing ,Others,Formal dress,1,piece,,,,For occational formal events,Luggage—Main,,,,,women
+Clothing ,Others,Suit,1,set,,,,For occational formal events,Luggage—Main,,,,,men
+Clothing ,Underwear,Bikini / swimwear,2,piece,,,,,,Container—Clothes,,,,women
+Clothing ,Underwear,Bra,5,piece,,,,,,Container—Dry,,,,women
+Clothing ,Underwear,Underwear,6,piece,,,,+1 daily outfit,,Container—Dry,,,,
+Clothing ,Underwear,Thermal underwear,2,piece,,,,For cold weather,,Container—Dry,,,,
+Clothing ,Underwear,Long-sleeves mesh shirt,2,piece,,,,Use this at the 1st base layer in cold weather,,Container—Clothes,,,,
+Clothing ,Underwear,Long socks,4,pair,,,,+1 daily outfit;Tip: wearing 2 layers of socks to prevent blisters,,Container—Dry,,,,MOTR
+Clothing ,Underwear,Short socks,9,pair,,,,+1 daily outfit;Tip: wearing 2 layers of socks to prevent blisters,,Container—Dry,,,,
+Clothing ,Underwear,Waterproof socks,2,pair,,,,"Keep feet dry in wet conditions, for hiking / rainy days;Best used with waterproof boots & gaiters",,Container—Dry,waterproof,water activities,,MOTR
+Clothing ,Underwear,Tights / leggings,2,pair,,,,,,Container—Dry,,,,women
+Clothing ,Underwear,Compression socks,1,pair,,,,Improves circulation on long flights,,Container—Dry,,,,public
+Clothing ,Outerwear,Casual jacket,1,piece,,,,Part of daily outfit in cool weather;Make room in luggage when not in use,On-body,,,,,
+Clothing ,Outerwear,Foldable rain jacket,1,piece,Decathlon,Windproof & water-repellent hiking jacket,,"Lightweight, compact & foldable for rainy weather",EDC—Sides,,waterproof,,,
+Clothing ,Outerwear,Foldable down jacket,1,piece,,,,"Lightweight, compact & foldable for cold weather",Luggage—Sides,,,,,
+Clothing ,Motorcycle Gear,Balaclava,1,piece,Rockbros,,,Above undershirt layer. Has holes for glass wearers,Luggage—Main,,,,,motorcycling
+Clothing ,Motorcycle Gear,Biker arm sleeves,1,pair,Rockbros,,,Above undershirt layer,Luggage—Main,,,,,motorcycling
+Clothing ,Motorcycle Gear,Knee pads,1,pair,Rockbros ,,,Extra protection under motorcycle pant,Luggage—Main,,,,,motorcycling
+Clothing ,Motorcycle Gear,Motorcycle pant,1,piece,BMW,BMW summer trousers,,Waterproof pant with protective pads,Luggage—Main,,waterproof,,,motorcycling
+Clothing ,Motorcycle Gear,Motorcycle jacket,1,piece,,,,,Luggage—Main,,,,,motorcycling
+Clothing ,Motorcycle Gear,Elbow guards,1,pair,,,,Final protection after putting on jacket,Luggage—Main,,,,,motorcycling
+Clothing ,Motorcycle Gear,Motorcycle gloves,1,pair,Rockbros,,,Double as winter gloves,Luggage—Main,,,,,motorcycling
+Clothing ,Motorcycle Gear,Balaclava,1,piece,Rockbros,,,Above undershirt layer. Has holes for glass wearers,,Container—Waterproof,,,,MOTR
+Clothing ,Motorcycle Gear,Biker arm sleeves,1,pair,Rockbros,,,Above undershirt layer,,Container—Waterproof,,,,MOTR
+Clothing ,Motorcycle Gear,Knee pads,1,pair,Rockbros ,,,Extra protection under motorcycle pant,,Container—Waterproof,,,,MOTR
+Clothing ,Motorcycle Gear,Motorcycle pant,1,piece,BMW,BMW summer trousers,,Waterproof pant with protective pads,,Container—Waterproof,waterproof,,,MOTR
+Clothing ,Motorcycle Gear,Elbow guards,1,pair,,,,Final protection after putting on jacket,,Container—Waterproof,,,,MOTR
+Clothing ,Motorcycle Gear,Motorcycle gloves,1,pair,Rockbros,,,Double as winter gloves,,Container—Waterproof,,,,MOTR
+Clothing ,Footwear,EDC boots ,1,pair,Mountain Warehouse,Rockies Extreme Mens Vibram Waterproof Boots,,"Durable, waterproof & offering superior grip",On-body,,waterproof,,,MOTR
+Clothing ,Footwear,Casual shoes,1,pair,,,,,On-body,,,,,public
+Clothing ,Footwear,Dress shoes,1,pair,,,,For occational formal events,Luggage—Secondary,Pouch—Shoes,,,,public
+Clothing ,Footwear,Hiking boots / shoes,1,pair,,,,,On-body,,,,,hiking
+Clothing ,Footwear,Sandals,1,pair,Decathlon ,Sandal NH50 Black Man,https://www.decathlon.vn/p/sandal-d%C3%A3-ngo%E1%BA%A1i-nam-nh50-%C4%91en-quechua-960738.html,"Flat, lightweight & compact",,Pouch—Shoes,,,,
+Clothing ,Accessories,Hat,1,piece,,,,,On-body,,,,,public
+Clothing ,Accessories,Sunglasses,1,pair,,,,,On-body,,,,,public
+Clothing ,Accessories,Belt,2,piece,,,,,On-body,,,,,public
+Clothing ,Accessories,Jewelry,3,piece,,,,"Necklace, bracelet, earrings",On-body,,,,,women
+Containers,,Packing cube - clothes,1,item,eagle creek ,pack-it,,"Compresses garments flat, maximizing suitcase space",Luggage—Main,Container—Clothes,,,,
+Containers,,Waterproof shoe bag,1,item,Pack-all,Water-Resistant Travel Shoe Bag,,Contain: sandals. Use to put wet shoes in,Luggage—Main,Container—Clothes,waterproof,water activities,,
+Containers,,Foldable shoe bag,1,item,Decathlon,15l shoe bag light,,"Lightweight & foldable, for carrying boots",EDC—Sides,,,,,
+Containers,,Money pouch,1,item,Decathlon,Travel trekking large organizer wallet,,"Search tag ""Pouch–Essentials"" for contents",On-body,Pouch—Essentials,,,,MOTR
+Containers,,First-aid kit,1,item,,,,"Search tag ""Pouch–First-aid"" for contents",Luggage—Secondary,Pouch—First-aid,,,,
+Containers,,Toiletries bag,1,item,Decathlon,Ultra light & compact toiletry bag,,"Search tag ""Pouch–Toiletries"" for contents",Luggage—Main,Pouch—Toiletries,,water activities,,
+Containers,,Make-up bag,1,item,,,,"Mascara, concealer, lipstick, eye shadow",Luggage—Main,Pouch—Toiletries,,,,women
+Containers,,Tech pouch,1,item,,,,"Search tag ""Pouch–Electronics"" for contents",Luggage—Secondary,Pouch—Electronics,,,,
+Containers,,Utility pouch,1,item,,,,"Search tag ""Pouch–Utilities"" for contents",EDC—Main,Pouch—Utilities,,,,
+Containers,,Compression bag,1,item,Decathlon,Waterproof compression bag 20l,,Contain: motorcycle gears,Luggage—Main,Container—Waterproof,waterproof,,,MOTR
+Containers,,Waterproof organizers 2 x 7l,1,set,Forclaz,Half-moon water resist organizers,,Extra organizers for water activities ,Luggage—Secondary,,waterproof,water activities,,MOTR
+Containers,,Dirty clothes bag,1,item,Forclaz ,waterproof pouch,,Contain: dirty socks & underwears,Luggage—Secondary,Container—Clothes,waterproof,,,
+Containers,,Clean clothes bag,1,item,eagle creek ,pack-it,,Contain: clean socks & underwears,Luggage—Secondary,Container—Clothes,,,,
+Containers,,Foldable travel courier,1,item,Patagonia,Patagonia compact sling bag,,"Folds into a pocket, holds essentials for sightseeing",Luggage—Main,,,,,MOTR
+Containers,,Zip-lock bags,5,item,,,,Lightweight containers to protect items;Splits snacks into small portions,Luggage—Secondary,,,,,
+Toiletries,,Travel towel,1,piece,,Microfiber travel towel,,,,Pouch—Toiletries,quick-dry,water activities,,
+Toiletries,,Toothbrush,1,piece,,,,Recommend using toothbrush cap,,Pouch—Toiletries,,,,
+Toiletries,,Toothpaste,1,tube,,,,Travel-sized for TSA compliance and easy packing,,Pouch—Toiletries,,,,
+Toiletries,,Travel bottle set,1,set,,,,"For shampoo, shower gel and more",,Pouch—Toiletries,,,,
+Toiletries,,Bar soap,1,piece,,,,Optional,,Pouch—Toiletries,,,,
+Toiletries,,Paper soap,1,pack,,Portable soap sheets,,"Disposable, lightweight handwashing",,Pouch—Utilities,,,,
+Toiletries,,Razor / beard trimmer,1,item,,,,,,Pouch—Toiletries,,,,men
+Toiletries,,Shaving cream / aftershave,1,item,,,,,,Pouch—Toiletries,,,,men
+Toiletries,,Deodorant,1,item,,,,,,Pouch—Toiletries,,,,men
+Toiletries,,Gel / hairspray / hair products,1,item,,,,,,Pouch—Toiletries,,,,men
+Toiletries,,Cologne,1,item,,,,,,Pouch—Toiletries,,,,men
+Toiletries,,"Contacts, solution & case",1,,,,,,,Pouch—Toiletries,,,,public
+Toiletries,,Dental floss,1,,,,,,,Pouch—Toiletries,,,,public
+Toiletries,,Cosmetics,,,,,,,,Pouch—Toiletries,,,,women
+Toiletries,,Facial cleanser,1,item,,,,,,Pouch—Toiletries,,,,women
+Toiletries,,Feminine products,,item,,,,,,Pouch—Toiletries,,,,women
+Toiletries,,Razor / Shave gel,,,,,,,,Pouch—Toiletries,,,,women
+Toiletries,,Perfume,1,item,,,,,,Pouch—Toiletries,,,,women
+Outdoor,Hiking,Headlamp,1,item,,,,,Luggage—Secondary,,,,,hiking
+Outdoor,Hiking,Multi-tool,1,item,,,,,Luggage—Secondary,,,,,hiking
+Outdoor,Hiking,Hydration bladder,1,item,,,,Recommend 2-3L,EDC—Main,,,,,hiking
+Outdoor,Hiking,Water filter,1,item,,,,For long hikes,Luggage—Secondary,,,,,hiking
+Outdoor,Hiking,Trekking poles,1,pair,,,,"Optional, for long/difficult hikes",Luggage—Secondary,,,,,hiking
+Outdoor,Camping,Tent / tarp,1,item,,,,,Luggage—Main,,,,,camping
+Outdoor,Camping,Sleeping bag,1,item,,,,,Luggage—Main,,,,,camping
+Outdoor,Camping,Sleeping pad,1,item,,,,,Luggage—Main,,,,,camping
+Outdoor,Camping,Emergency blanket,1,item,,,,,Luggage—Main,,,,,camping
+Health,Wellness,Mosquito repellent spray ,1,bottle,,,,Sprays on protection against bites,,Pouch—First-aid,,,,
+Health,Wellness,Hand sanitizer,1,bottle,,,,,EDC—Sides,,,,,
+Health,Wellness,Pain relieving patch,1,pack,Salonpas ,,,Stick-on relief for sore muscles & joints,,Pouch—First-aid,,,,
+Health,Wellness,Pain relieving gel tube,1,tube,Salonpas ,,,Fast-acting rub for aches & strains,EDC—Sides,,,often missed,,
+Health,Wellness,Blister protection bandage,1,item,Forclaz,Blister protection bandage,,Cushions hot spots for hiking or long walks,,Pouch—First-aid,,often missed,,
+Health,Wellness,Vitamin C + Zinc,,,,,,Boosts immunity,EDC—Sides,,,often missed,,
+Health,Wellness,Electrolyte powders,,,,,,Prevents dehydration from hiking,,Pouch—First-aid,,,,
+Health,Wellness,Probiotics,,,,,,Supports gut health when eating unfamiliar foods;Prevents traveler’s diarrhea,,Pouch—Essentials,,often missed,,
+Health,Wellness,Sunscreen / sunspray,2,tube,,,,Recommend SPF50+,EDC—Sides,Pouch—First-aid,,,,
+Health,Wellness,Lip balm,1,item,,SPF 30+ lip balm,,Prevents chapping/sunburn,,Pouch—Essentials,,,,
+Health,Wellness,Vaseline,1,tube,,,,"Multi-use balm for lips, cuts & dryness",,Pouch—Essentials,,,,
+Health,Wellness,Hand warmers,1,pack,,,,Shake-to-activate heat in gloves/pockets,Luggage—Secondary,,,often missed,,
+Health,Wellness,Posture support,1,item,,,,Straps to straighten back & reduce strain;Promotes healthy posture,On-body,,,,,
+Health,Wellness,Medicated oil,1,unit,Axe / Eagle Brand,Axe Brand Universal Medicated Oil,,Eases stomachaches & mosquito bites,,Pouch—Utilities,,often missed,,
+Health,Medication,Paracetamol – Fever & Pain Relief,,,Panadol,,,"Lowers fever & relieves mild pain (headaches, muscle aches);Safer for stomachs than ibuprofen",,Pouch—First-aid,,,,
+Health,Medication,Ibuprofen / Acetaminophen,,,"Advil, Tylenol",,,"Reduces fever, headaches, muscle pain",,Pouch—First-aid,,,,
+Health,Medication,Dextromethorphan (DM) – Cough Suppressant,,,,,,For dry coughs,,Pouch—First-aid,,,,
+Health,Medication,Tiffy,,,"Tiffy, Telfast BD, DayQuil, Lemsip",,,"Reduces fever & pain, clears stuffy nose & stops sneezing;Fast-acting & non-drowsy formula",,Pouch—First-aid,,,,
+Health,Medication,Loperamide (Imodium),,,"Imodium, Pepto-Bismol",,,Stops traveler’s diarrhea from unfamiliar food/water,,Pouch—First-aid,,,,
+Health,Medication,Throat Lozenges,,,"Strepsils, Cepacol, Luden’s",,,Soothes sore throats and coughs,,Pouch—First-aid,,,,
+Health,First-aid,Waterproof bandages,,,Band-Aid,,,Stays on during swimming or showers,,Pouch—First-aid,,,,
+Health,First-aid,Bandages,,,Band-Aid,,,Covers minor cuts and blisters,,Pouch—First-aid,,,,
+Health,First-aid,Antiseptic,,,,,,Cleans wounds to prevent infection,,Pouch—First-aid,,,,
+Health,First-aid,Absorbent gauze,,,,,,Handles bleeding and wound care,,Pouch—First-aid,,,,
+Health,First-aid,Sterile cotton gauze ,,,Pharmacity,,,Protects burns or larger injuries,,Pouch—First-aid,,,,
+Health,First-aid,Cotton absorbent wool,,,,,,Soft padding for wounds,,Pouch—First-aid,,,,
+Miscellaneous,EDC,Collapsible umbrella,1,item,,,,Compact rain / sun protection,EDC—Main,,,,,
+Miscellaneous,EDC,Backpack raincover,1,piece,,,,Protect your contents from getting wet or dusty,EDC—Sides,,,,,
+Miscellaneous,Utilities,Luggage raincover,1,piece,Decathlon,Forclaz Trekking Basic Rain Cover for Backpack 70/100L,,Protect your contents from getting wet or dusty,Luggage—Sides,,,,,
+Miscellaneous,EDC,Inflatable neck pillow,1,piece,,,,"Packs flat, inflates for comfy plane/coach sleep",EDC—Sides,,,often missed,,
+Miscellaneous,EDC,Rechargeable flashlight,1,item,FENIX,,,Port: micro USB,EDC—Sides,Pouch—Utilities,micro USB,,,
+Miscellaneous,EDC,Tide-to-go,1,item,Tide,Tide-to-go,,Quick stain remover,,Pouch—Essentials,,,,
+Miscellaneous,EDC,Gum / mints,1,pack,,,,,,Pouch—Essentials,,,,
+Miscellaneous,EDC,Travel gifts,,item,,,,Small gifts for new friends met while travelling,EDC—Sides,,,,,public
+Miscellaneous,EDC,Vietnamese currency,20,piece,,,,Gifts for new friends met while travelling,,Pouch—Essentials,,,,MOTR
+Miscellaneous,EDC,Vietnamese lapel pins,10,piece,,,,Gifts for new friends met while travelling,EDC—Sides,Pouch—Essentials,,,,MOTR
+Miscellaneous,Snacks,Dried food,1,pack,,Dried giant salmon catfish,,On-the-go snack,EDC—Sides,,,,,MOTR
+Miscellaneous,Snacks,Instant cereal,10,pack,SUPER,Super NutreMill Instant Original Cereal,,2 sachets for a lazy dinner,Luggage—Secondary,,,,,MOTR
+Miscellaneous,Snacks,Muesli pack,1,pack,Bakalland,Bakalland Crunchy Muesli,,On-the-go snack,EDC—Sides,,,,,MOTR
+Miscellaneous,Food,Dried food,1,pack,,,,On-the-go snack,EDC—Sides,,,,,public
+Miscellaneous,Food,Instant noodles,5,pack,,,,"Quick, cheap & easy dinner",Luggage—Main,,,,,public
+Miscellaneous,Food,High-energy snacks,5,pack,,,,"Trail mix, bars, jerky",EDC—Sides,,,,,hiking
+Miscellaneous,Food,Meals,3,pack,,,,For multi-day hike,EDC—Sides,,,,,hiking
+Miscellaneous,EDC,Thermal water bottle,1,piece,,,,Recommend >700ml,EDC—Sides,,,,,
+Miscellaneous,EDC,Earplugs,3,pair,,,,Reduce noise for better sleep on flights & buses;Bring extras as they get lost easily,EDC—Sides,Pouch—Utilities,backup,often missed,,
+Miscellaneous,EDC,Neck cover / face mask / head scarf,1,piece,,,,Versatile & adaptable to weather,On-body,,,,,
+Miscellaneous,EDC,Pen,2,item,,,,,,Pouch—Essentials,,,,
+Miscellaneous,Utilities,Nail clipper,1,item,MR.GREEN,MR.GREEN Ultra-thin nail clippers collapsible,,,,Pouch—Utilities,,often missed,,
+Miscellaneous,Utilities,Travel hanger,2,item,,Portable Folding Clothes Hanger,,,Luggage—Secondary,,,,,
+Miscellaneous,Utilities,Multifunction carabiner,2,piece,,Heroclip carabiner with folding hook,,Versatile uses,,Pouch—Utilities,,,,
+Miscellaneous,Utilities,Luggage lock,3,piece,,,,TSA approved,Luggage—Main,,,,,
+Miscellaneous,Utilities,SIM eject tool,1,piece,,,,,,Pouch—Essentials,,often missed,,
+Miscellaneous,Utilities,Cleaning cloth,2,piece,,,,"For general use of cleaning dusty, dirty items",,Container—Dry,,often missed,,
+Miscellaneous,Utilities,Motorcycle strap,1,piece,,Motorcycle Luggage Strap,,For strapping luggage behind motorcycle,,Container—Waterproof,,often missed,,MOTR
+Miscellaneous,Utilities,Leg gaiters,1,pair,,,,"Quick strap-on to protect legs from thorns, bugs, and brush off-road;Keeps pants & socks clean from mud, snow, and debris",Luggage—Secondary,,,,,
+Miscellaneous,Personal,Diary / journal,,item,,,,,EDC—Main,,,,,public
+Miscellaneous,Personal,Book,,item,,,,,EDC—Main,,,,,public
+Electronics,Devices,External storage,1,device,Western Digital,My Passport 5TB,,Port: USB-C • Storage: 5TB,,Pouch—Electronics,,important,storages,MOTR
+Electronics,Accessories,Cable: USB-C to USB-C,1,cable,Western Digital,,,Official WD cable for data transfering;+ Adapter: USB-C to USB-A,,Pouch—Electronics,cable,,,MOTR
+Electronics,Accessories,Cable: High compartible,1,cable,Baseus,Baseus Charging Cable U+C to M+L+C,,High compartible fast charging cable,EDC—Main,Pouch—Utilities,cable,,,
+Electronics,Accessories,Cable: USB-C to USB-C,1,cable,Hagibis,Hagibis USB4 Center L Shape Plug,,Fast charging 40Gpbs 240W 8K@60Hz,,Pouch—Utilities,cable,,,MOTR
+Electronics,Accessories,Cable: USB-A to USB-C,1,cable,Baseus,,,+ Adapter: USB-A to USB-C,,Pouch—Essentials,cable,,,
+Electronics,Accessories,Adapter: USB-C to USB-A,1,item,Hagibis,,,,,Pouch—Electronics,,,,MOTR
+Electronics,Accessories,Travel adapter,1,piece,AUKEY,PA-TA09A 100W 3C+1A,,,EDC—Main,,,,,
+Electronics,Accessories,Earbuds / headphone,1,item,,,,,On-body,,,,,public
+Electronics,Devices,Mobile phone,1,device,,,,Charging port: USB-C,On-body,,USB-C,important,,public
+Electronics,Devices,Smart watch,1,device,,,,Charger,On-body,,,,,public
+Electronics,Devices,Laptop,1,device,,,,"Charger, case, accessories",EDC—Main,,,,,public
+Electronics,Accessories,Tablet,1,device,,,,"Charger, case, accessories",EDC—Main,,,,,public
+Electronics,Devices,Huawei Watch 2,1,device,HUAWEI,,,,On-body,,,,,MOTR
+Electronics,Accessories,Huawei Watch 2 – charger,1,cable,HUAWEI,,,,,Pouch—Electronics,,,,MOTR
+Electronics,Devices,iPad Pro 2018 + Pencil,1,device,Apple,,,Charging port: USB-C,EDC—Main,,USB-C,important,,MOTR
+Electronics,Devices,OnePlus 12,1,device,OnePlus,,,Charging port: USB-C • Storage: 512GB;Main phone with eSIMs,On-body,,USB-C,important,storages,MOTR
+Electronics,Devices,Xiaomi POCO F2 Pro,1,device,Xiaomi,,,Charging port: USB-C;Backup phone with physical sims,On-body,,USB-C,important,,MOTR
+Electronics,Devices,Power bank,1,device,ANKER,ANKER PowerCore Metro Essential 20.000 PD,,Charging port: USB-C *** Warning: capacity >20000mAh;could be confiscated at international airports,EDC—Main,,USB-C,,,
+Electronics,Accessories,Card Reader Adapter,1,item,UGREEN,UGREEN USB 3.0 SD Card Reader Adapter,,For transfering images from SD cards,,Pouch—Utilities,USB-C,important,,MOTR
+Electronics,Devices,DJI Mic 2,1,set,DJI,DJI Mic 2,,Charging port: USB-C,,Pouch—Electronics,USB-C,,,MOTR
+Electronics,Accessories,USB-C Memory Card Reader,1,item,Vention,VENTION SD Card Reader,,Backup card reader,,Pouch—Electronics,backup,often missed,,MOTR
+Photography,Devices,Camera,1,device,,,,,On-body,,,important,,photography
+Photography,Devices,Drone,1,device,,,,,EDC—Main,,,important,,photography
+Photography,Accessories,Extra batteries,3,battery,,,,,On-body,,,,,photography
+Photography,Accessories,Battery charger,2,item,,,,Charging port: USB-C,,Pouch—Electronics,USB-C,,,photography
+Photography,Accessories,Card reader adapter,1,item,UGREEN,UGREEN USB 3.0 SD Card Reader Adapter,,For transfering images from SD cards,,Pouch—Utilities,USB-C,important,,photography
+Photography,Devices,P3 – DJI Osmo Pocket 3,1,device,DJI,DJI Osmo Pocket 3,,Storage: micro SD 256GB,EDC—Main,,,important,storages,MOTR
+Photography,Accessories,P3 – Power bank,1,item,StartRC,Power bank 4000mAh for DJI Pocket 3,,Charging port: USB-C,,Pouch—Electronics,USB-C,battery,,MOTR
+Photography,Devices,RX – Compact travel camera,1,device,Sony,Sony RX100 VII,,Storage: micro SD 256GB,EDC—Main,,,important,storages,MOTR
+Photography,Accessories,RX – Extra batteries,4,battery,,,,+1 in device,On-body,,battery,,,MOTR
+Photography,Accessories,RX – Battery charger,1,item,Telesin,TELESIN 3-Channel Battery Charger,,Charging port: USB-C,,Pouch—Electronics,USB-C,,,MOTR
+Photography,Devices,X3 – Insta360,1,device,Insta360,Insta360 X3,,Storage: micro SD 128GB,,Pouch—Electronics,,important,storages,MOTR
+Photography,Accessories,X3 – Extra batteries,2,battery,,,,+1 in device,,Pouch—Electronics,battery,,,MOTR
+Photography,Accessories,X3 – Quick Reader,1,item,Insta360,,,Storage: micro SD 1TB,,Pouch—Electronics,storages,,,MOTR
+Photography,Accessories,X3 – Battery charger,1,item,KingMa,KingMa 2 Dual USB Charger,,Charging port: USB-C,,Pouch—Electronics,USB-C,,,MOTR
+Photography,Accessories,X3 – Long stick,1,piece,Insta360,,,,EDC—Sides,,,,,MOTR
+Photography,Devices,S9 – Full-frame camera,1,device,Panasonic,Lumix S9,,Storage: micro SD 256GB,On-body,,,important,storages,MOTR
+Photography,Accessories,S9 – Battery charger,1,item,KingMa,KingMa DMW-BLK22 V4,,Charging port: USB-C,,Pouch—Electronics,USB-C,,,MOTR
+Photography,Accessories,S9 – Extra batteries,2,battery,,,,+1 in device,On-body,,battery,,,MOTR
+Photography,Accessories,Camera belt holster,1,item,,,,"Secure camera, double as belt",On-body,,,,,MOTR
+Photography,Accessories,Camera Battery pouch,1,item,JJC,Camera Lithium battery pouch,,Attatched with belt holster to hold batteries,On-body,,battery,,,MOTR
+Photography,Accessories,Cleaning cloth,2,piece,,,,For cleaning lens & devices,,Pouch—Electronics,,,,MOTR
+Photography,Devices,FX – Prime lens camera,1,device,Fujifilm,Fujifilm X100V,,Storage: SD 128GB,,,,,OTF,MOTR
+Photography,Accessories,FX – Battery charger,1,item,KingMa,,,,,,,,OTF,MOTR
+Photography,Accessories,FX – Extra batteries,2,battery,,,,+1 in device,,,,,OTF,MOTR
+Visa,Travel Documents,Passport - original,1,,,,,,,,,,,visa
+Visa,Travel Documents,Passport - copy / scanned,1,,,,,,,,,,,visa
+Visa,Travel Documents,National ID card - original,1,,,,,,,,,,,visa
+Visa,Travel Documents,National ID card - copy / scanned,1,,,,,,,,,,,visa
+Visa,Travel Documents,Passport photos,3,photo,,,,"Size: 3.5 x 4.5 (mm) / 4 x 6 (mm), in white / grey background",,,,,,visa
+Visa,Travel Documents,Visa application,1,,,,,Online form / printed pages,,,,,,visa
+Visa,Travel Documents,Travel history,1,,,,,Copy / scanned of passport pages with stamps & visa labels,,,,,,visa
+Visa,Travel Documents,E-visas,1,,,,,Previous / current e-visas,,,,,,visa
+Visa,Personal Information, Family Register & Composition Form,1,,,,,Family Register Book. Notarized & translated copy / scanned,,,,,,visa
+Visa,Personal Information, Birth Certificate,1,,,,,Notarized translated copy / scanned,,,,,,visa
+Visa,Personal Information, Confirmation of marital status,1,,,,,Notarized translated copy / scanned,,,,,,visa
+Visa,Personal Information, Bachelor Degree,1,,,,,Notarized translated copy / scanned,,,,,,visa
+Visa,Proof of Work, Labour Contract,1,,,,, Notarized copy,,,,,,visa
+Visa,Proof of Work,Employment Verification Letter,1,,,,,Confirmation of work & application for leave. Notarized original copy / scanned,,,,,,visa
+Visa,Proof of Work,Payslips,1,,,,,Latest 3 months. Notarized copy / scanned,,,,,,visa
+Visa,Proof of Work,Bank Statement,1,,,,,Latest 3-6 months with highlight salary. Physical / copy / scanned,,,,,,visa
+Visa,Proof of Work,Social Insurance,1,,,,,(Optional) Notarized translated copy / scanned,,,,,,visa
+Visa,Proof of Work,Namecard,1,,,,,(Optional),,,,,,visa
+Visa,Proof of Financial Status,Term Saving Book,1,,,,,"Deposits of minimum $5000, recommended $10000. Physical / copy / scanned",,,,,,visa
+Visa,Proof of Financial Status,Confirmation of Deposits Amount,1,,,,,Notarized copy / scanned,,,,,,visa
+Visa,Proof of Financial Status,Investment Account Statement,1,,,,,Notarized copy / scanned,,,,,,visa
+Visa,Proof of Financial Status,Confirmation of Credit Card Info,1,,,,,(Optional) Notarized copy / scanned,,,,,,visa
+Visa,Proof of Financial Status,Confirmation of Current Account Balance,1,,,,,(Optional) Physical / copy / scanned,,,,,,visa
+Visa,Itinerary,Travel Itinerary,1,,,,,"Date in format yyyy-mm-dd, with detailed daily activities, showing round-trip flight numbers, hotels' name, address",,,,,,visa
+Visa,Itinerary,Hotel Reservation,1,,,,,Match with travel itinerary,,,,,,visa
+Visa,Itinerary,Flight Reservation,1,,,,,"Match with travel itinerary, but DO NOT buy ticket before obtaining the visa",,,,,,visa
+Visa,Itinerary,Travel Medical Insurance,1,,,,,"Covering the entire period of intended stay, with minimum coverage EUR 30000",,,,,,visa
+Visa,Other,Cover Letter,1,,,,,"State purpose of visit, travel history & finacial support",,,,,,visa
+Todo,,Set travel budget,,,,,,"A clear budget helps determine your travel style, trip duration, and overall destination options.",,,,,,
+Todo,,Check visa rules,,,,,,Confirm whether you need a visa for each country on your itinerary to avoid entry issues.,,,,,,
+Todo,,Review weather patterns,,,,,,Check annual weather trends to identify which months offer the best travel conditions.,,,,,,
+Todo,,Research local customs,,,,,,"Learn basic etiquette, common scams, and transportation norms to navigate smoothly.",,,,,,
+Todo,,List top attractions,,,,,,Identify must-see sights and backup activities in case of bad weather or closures.,,,,,,
+Todo,,Draft daily itinerary,,,,,,Create a realistic day-by-day plan that balances sightseeing with rest and flexibility.,,,,,,
+Todo,,Get local cash,,,,,,Exchange some currency before departure for better rates than using airport kiosks and ATMs upon arrival.,,,,,,
+Todo,,Pack for trip,,,,,,Pack for weather and activities. Follow our detailed travel checklist to ensure you pack all recommended items and avoid forgetting essentials.,,,,,,
