@@ -15,10 +15,6 @@
     "passport-index": {
       "version": "1.10.0",
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@latest/passport-index.csv"
-    },
-    "currencies": {
-      "version": "1",
-      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@latest/currencies.csv"
     }
   }
 }
