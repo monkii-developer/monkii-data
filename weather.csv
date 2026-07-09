@@ -179,30 +179,30 @@ India,Delhi/Agra/Jaipur – Golden Triangle,September,26,34,11,mixed,low,mixed,M
 India,Delhi/Agra/Jaipur – Golden Triangle,October,23,34,2,sunny,shoulder,good,,,,
 India,Delhi/Agra/Jaipur – Golden Triangle,November,18,29,1,sunny,shoulder,best,,,,
 India,Delhi/Agra/Jaipur – Golden Triangle,December,12,24,1,sunny,shoulder,best,,,,
-India,Varanasi – Ganges Plains,January,12,23,2,sunny,shoulder,best,,,,
-India,Varanasi – Ganges Plains,February,15,28,1,sunny,high,best,,,,
-India,Varanasi – Ganges Plains,March,20,35,1,sunny,festive,good,,Holi,,
-India,Varanasi – Ganges Plains,April,26,40,1,sunny,high,mixed,Heatwaves,,,
-India,Varanasi – Ganges Plains,May,30,42,4,sunny,low,mixed,Heatwaves,,,
-India,Varanasi – Ganges Plains,June,31,40,9,rainy,low,poor,Heatwaves,,,
-India,Varanasi – Ganges Plains,July,28,34,19,rainy,low,poor,Monsoon,,,
-India,Varanasi – Ganges Plains,August,27,33,20,rainy,low,poor,Monsoon,,,
-India,Varanasi – Ganges Plains,September,26,33,15,rainy,low,poor,Monsoon,,,
-India,Varanasi – Ganges Plains,October,23,32,4,mixed,shoulder,mixed,,,,
-India,Varanasi – Ganges Plains,November,18,29,1,sunny,shoulder,best,,,,
-India,Varanasi – Ganges Plains,December,14,25,1,sunny,shoulder,best,,,,
-India,Rishikesh – Himalayas Foothills,January,6,20,2,sunny,shoulder,best,,,,
-India,Rishikesh – Himalayas Foothills,February,9,24,2,sunny,high,best,,,,
-India,Rishikesh – Himalayas Foothills,March,14,30,3,sunny,high,good,,,,
-India,Rishikesh – Himalayas Foothills,April,19,36,3,sunny,high,good,,,,
-India,Rishikesh – Himalayas Foothills,May,23,38,5,sunny,low,mixed,,,,
-India,Rishikesh – Himalayas Foothills,June,25,36,10,rainy,low,mixed,,,,
-India,Rishikesh – Himalayas Foothills,July,24,32,18,rainy,low,poor,,,,
-India,Rishikesh – Himalayas Foothills,August,24,32,17,rainy,low,poor,,,,
-India,Rishikesh – Himalayas Foothills,September,22,32,11,cloudy,low,mixed,,,,
-India,Rishikesh – Himalayas Foothills,October,17,31,3,sunny,shoulder,good,,,,
-India,Rishikesh – Himalayas Foothills,November,11,26,1,sunny,shoulder,best,,,,
-India,Rishikesh – Himalayas Foothills,December,7,21,1,sunny,shoulder,best,,,,
+India,Varanasi – Ganges Plains,January,12,23,2,sunny,shoulder,best,,,yes,
+India,Varanasi – Ganges Plains,February,15,28,1,sunny,high,best,,,yes,
+India,Varanasi – Ganges Plains,March,20,35,1,sunny,festive,good,,Holi,yes,
+India,Varanasi – Ganges Plains,April,26,40,1,sunny,high,mixed,Heatwaves,,yes,
+India,Varanasi – Ganges Plains,May,30,42,4,sunny,low,mixed,Heatwaves,,yes,
+India,Varanasi – Ganges Plains,June,31,40,9,rainy,low,poor,Heatwaves,,yes,
+India,Varanasi – Ganges Plains,July,28,34,19,rainy,low,poor,Monsoon,,yes,
+India,Varanasi – Ganges Plains,August,27,33,20,rainy,low,poor,Monsoon,,yes,
+India,Varanasi – Ganges Plains,September,26,33,15,rainy,low,poor,Monsoon,,yes,
+India,Varanasi – Ganges Plains,October,23,32,4,mixed,shoulder,mixed,,,yes,
+India,Varanasi – Ganges Plains,November,18,29,1,sunny,shoulder,best,,,yes,
+India,Varanasi – Ganges Plains,December,14,25,1,sunny,shoulder,best,,,yes,
+India,Rishikesh – Himalayas Foothills,January,6,20,2,sunny,shoulder,best,,,yes,
+India,Rishikesh – Himalayas Foothills,February,9,24,2,sunny,high,best,,,yes,
+India,Rishikesh – Himalayas Foothills,March,14,30,3,sunny,high,good,,,yes,
+India,Rishikesh – Himalayas Foothills,April,19,36,3,sunny,high,good,,,yes,
+India,Rishikesh – Himalayas Foothills,May,23,38,5,sunny,low,mixed,,,yes,
+India,Rishikesh – Himalayas Foothills,June,25,36,10,rainy,low,mixed,,,yes,
+India,Rishikesh – Himalayas Foothills,July,24,32,18,rainy,low,poor,,,yes,
+India,Rishikesh – Himalayas Foothills,August,24,32,17,rainy,low,poor,,,yes,
+India,Rishikesh – Himalayas Foothills,September,22,32,11,cloudy,low,mixed,,,yes,
+India,Rishikesh – Himalayas Foothills,October,17,31,3,sunny,shoulder,good,,,yes,
+India,Rishikesh – Himalayas Foothills,November,11,26,1,sunny,shoulder,best,,,yes,
+India,Rishikesh – Himalayas Foothills,December,7,21,1,sunny,shoulder,best,,,yes,
 India,Leh/Ladakh – Himalayas,January,-26.2,-15.3,8,snowy,low,poor,Road closures,,,
 India,Leh/Ladakh – Himalayas,February,-22.8,-13.1,9,snowy,low,poor,Road closures,,,
 India,Leh/Ladakh – Himalayas,March,-20.8,-9.4,9,snowy,low,poor,Road closures,,,
@@ -719,90 +719,90 @@ Sri Lanka,Jaffna – Northern,September,26,33,7,mixed,shoulder,mixed,,,,
 Sri Lanka,Jaffna – Northern,October,25,32,13,rainy,low,poor,,,,
 Sri Lanka,Jaffna – Northern,November,24,31,15,rainy,low,poor,,,,
 Sri Lanka,Jaffna – Northern,December,23,30,9,mixed,high,good,,,,
-Switzerland,Zurich – North,January,-2,3,10,snowy,low,poor,,,,PR
-Switzerland,Zurich – North,February,-1,5,9,snowy,low,poor,,,,
-Switzerland,Zurich – North,March,2,10,10,mixed,shoulder,mixed,,,,
-Switzerland,Zurich – North,April,4,15,11,mixed,shoulder,good,,,,
-Switzerland,Zurich – North,May,8,20,13,sunny,high,best,,,,
-Switzerland,Zurich – North,June,12,23,13,sunny,high,best,,,,
-Switzerland,Zurich – North,July,14,25,12,sunny,high,best,,,,
-Switzerland,Zurich – North,August,14,24,12,sunny,high,best,,,,
-Switzerland,Zurich – North,September,10,20,10,mixed,shoulder,good,,,,
-Switzerland,Zurich – North,October,6,14,10,mixed,shoulder,mixed,,,,
-Switzerland,Zurich – North,November,2,8,11,mixed,low,mixed,,,,
-Switzerland,Zurich – North,December,-1,4,11,snowy,festive,poor,,,,
-Switzerland,Geneva – West,January,-1,5,9,snowy,low,poor,,,,PR
-Switzerland,Geneva – West,February,0,7,8,snowy,low,poor,,,,
-Switzerland,Geneva – West,March,2,12,9,mixed,shoulder,mixed,,,,
-Switzerland,Geneva – West,April,5,16,10,mixed,shoulder,good,,,,
-Switzerland,Geneva – West,May,9,21,12,sunny,high,best,,,,
-Switzerland,Geneva – West,June,13,25,11,sunny,high,best,,,,
-Switzerland,Geneva – West,July,15,27,9,sunny,high,best,,,,
-Switzerland,Geneva – West,August,15,27,9,sunny,high,best,,,,
-Switzerland,Geneva – West,September,11,22,9,mixed,shoulder,good,,,,
-Switzerland,Geneva – West,October,7,16,10,mixed,shoulder,mixed,,,,
-Switzerland,Geneva – West,November,2,10,10,mixed,low,mixed,,,,
-Switzerland,Geneva – West,December,0,6,10,snowy,festive,poor,,,,
-Switzerland,Zermatt – Alps,January,-8,-1,11,snowy,low,poor,,,,PR
-Switzerland,Zermatt – Alps,February,-7,0,10,snowy,low,poor,,,,
-Switzerland,Zermatt – Alps,March,-5,3,11,snowy,shoulder,mixed,,,,
-Switzerland,Zermatt – Alps,April,-2,7,12,mixed,shoulder,mixed,,,,
-Switzerland,Zermatt – Alps,May,2,12,14,mixed,shoulder,good,,,,
-Switzerland,Zermatt – Alps,June,6,16,14,mixed,high,good,,,,
-Switzerland,Zermatt – Alps,July,8,18,13,sunny,high,best,,,,
-Switzerland,Zermatt – Alps,August,8,18,13,sunny,high,best,,,,
-Switzerland,Zermatt – Alps,September,5,14,11,mixed,shoulder,good,,,,
-Switzerland,Zermatt – Alps,October,2,9,10,mixed,shoulder,mixed,,,,
-Switzerland,Zermatt – Alps,November,-3,3,11,snowy,low,mixed,,,,
-Switzerland,Zermatt – Alps,December,-6,0,12,snowy,festive,poor,,,,
-Switzerland,Zurich – Northern,January,-2,3,12,snowy,low,poor,,,,
-Switzerland,Zurich – Northern,February,-1,5,10,snowy,low,poor,,,,
-Switzerland,Zurich – Northern,March,2,10,11,mixed,shoulder,good,,,,
-Switzerland,Zurich – Northern,April,4,15,10,sunny,shoulder,good,,,,
-Switzerland,Zurich – Northern,May,8,19,11,sunny,high,best,,,,
-Switzerland,Zurich – Northern,June,12,23,11,sunny,high,best,,,,
-Switzerland,Zurich – Northern,July,14,25,11,rainy,low,poor,,,,
-Switzerland,Zurich – Northern,August,14,24,11,rainy,low,poor,,,,
-Switzerland,Zurich – Northern,September,10,20,9,mixed,shoulder,good,,,,
-Switzerland,Zurich – Northern,October,6,14,11,rainy,low,poor,,,,
-Switzerland,Zurich – Northern,November,2,8,13,snowy,low,poor,,,,
-Switzerland,Zurich – Northern,December,-1,4,14,snowy,low,poor,,,,
-Switzerland,Geneva – Lake Region,January,-1,4,10,snowy,low,poor,,,,
-Switzerland,Geneva – Lake Region,February,0,6,8,snowy,low,poor,,,,
-Switzerland,Geneva – Lake Region,March,2,11,9,mixed,shoulder,good,,,,
-Switzerland,Geneva – Lake Region,April,5,15,8,sunny,shoulder,good,,,,
-Switzerland,Geneva – Lake Region,May,9,20,9,sunny,high,best,,,,
-Switzerland,Geneva – Lake Region,June,13,24,8,sunny,high,best,,,,
-Switzerland,Geneva – Lake Region,July,15,26,7,sunny,high,best,,,,
-Switzerland,Geneva – Lake Region,August,15,26,7,sunny,high,best,,,,
-Switzerland,Geneva – Lake Region,September,11,21,7,mixed,shoulder,good,,,,
-Switzerland,Geneva – Lake Region,October,7,15,9,rainy,low,poor,,,,
-Switzerland,Geneva – Lake Region,November,2,9,11,snowy,low,poor,,,,
-Switzerland,Geneva – Lake Region,December,0,5,12,snowy,low,poor,,,,
-Switzerland,Zermatt – Alps,January,-10,-2,12,snowy,high,best,,,,
-Switzerland,Zermatt – Alps,February,-9,-1,10,snowy,high,best,,,,
-Switzerland,Zermatt – Alps,March,-7,2,11,snowy,high,best,,,,
-Switzerland,Zermatt – Alps,April,-4,6,10,mixed,shoulder,good,,,,
-Switzerland,Zermatt – Alps,May,0,11,12,rainy,low,poor,,,,
-Switzerland,Zermatt – Alps,June,3,15,13,rainy,low,poor,,,,
-Switzerland,Zermatt – Alps,July,5,17,12,rainy,low,poor,,,,
-Switzerland,Zermatt – Alps,August,5,17,12,rainy,low,poor,,,,
-Switzerland,Zermatt – Alps,September,2,14,10,mixed,shoulder,good,,,,
-Switzerland,Zermatt – Alps,October,-2,9,11,snowy,high,best,,,,
-Switzerland,Zermatt – Alps,November,-6,3,12,snowy,high,best,,,,
-Switzerland,Zermatt – Alps,December,-9,0,13,snowy,high,best,,,,
-Switzerland,Lucerne – Central,January,-3,3,13,snowy,low,poor,,,,
-Switzerland,Lucerne – Central,February,-2,4,11,snowy,low,poor,,,,
-Switzerland,Lucerne – Central,March,0,9,12,mixed,shoulder,good,,,,
-Switzerland,Lucerne – Central,April,3,14,10,sunny,shoulder,good,,,,
-Switzerland,Lucerne – Central,May,7,18,11,sunny,high,best,,,,
-Switzerland,Lucerne – Central,June,11,22,11,sunny,high,best,,,,
-Switzerland,Lucerne – Central,July,13,24,12,rainy,low,poor,,,,
-Switzerland,Lucerne – Central,August,13,23,11,rainy,low,poor,,,,
-Switzerland,Lucerne – Central,September,9,19,9,mixed,shoulder,good,,,,
-Switzerland,Lucerne – Central,October,5,13,11,rainy,low,poor,,,,
-Switzerland,Lucerne – Central,November,0,7,14,snowy,low,poor,,,,
-Switzerland,Lucerne – Central,December,-2,3,15,snowy,low,poor,,,,
+Switzerland,Bern – Central Plateau,January,-3,4,10,snowy,low,mixed,snowfall,,,PR
+Switzerland,Bern – Central Plateau,February,-3,6,9,snowy,low,mixed,snowfall,,,PR
+Switzerland,Bern – Central Plateau,March,1,11,10,mixed,shoulder,good,,,,PR
+Switzerland,Bern – Central Plateau,April,3,15,10,mixed,shoulder,good,,,,PR
+Switzerland,Bern – Central Plateau,May,7,19,12,sunny,high,best,,,,PR
+Switzerland,Bern – Central Plateau,June,11,23,11,sunny,high,best,,,,PR
+Switzerland,Bern – Central Plateau,July,13,25,11,sunny,high,best,,,,PR
+Switzerland,Bern – Central Plateau,August,13,25,11,sunny,high,best,,,,PR
+Switzerland,Bern – Central Plateau,September,9,20,9,sunny,high,best,,,,PR
+Switzerland,Bern – Central Plateau,October,6,15,10,mixed,shoulder,good,,,,PR
+Switzerland,Bern – Central Plateau,November,1,8,10,snowy,low,mixed,snowfall,,,PR
+Switzerland,Bern – Central Plateau,December,-2,4,10,snowy,festive,mixed,snowstorm,Christmas Markets,,PR
+Switzerland,Zurich – North,January,-1,4,10,snowy,low,mixed,snowfall,,,PR
+Switzerland,Zurich – North,February,-1,5,9,snowy,low,mixed,snowfall,,,PR
+Switzerland,Zurich – North,March,2,10,10,mixed,shoulder,good,,,,PR
+Switzerland,Zurich – North,April,5,15,11,mixed,shoulder,good,,,,PR
+Switzerland,Zurich – North,May,9,19,13,sunny,high,best,,,,PR
+Switzerland,Zurich – North,June,13,22,12,sunny,high,best,,,,PR
+Switzerland,Zurich – North,July,15,24,12,sunny,high,best,,,,PR
+Switzerland,Zurich – North,August,14,24,12,sunny,high,best,,,,PR
+Switzerland,Zurich – North,September,11,19,10,sunny,high,best,,,,PR
+Switzerland,Zurich – North,October,7,14,10,mixed,shoulder,good,,,,PR
+Switzerland,Zurich – North,November,3,8,10,snowy,low,mixed,snowfall,,,PR
+Switzerland,Zurich – North,December,-1,4,11,snowy,festive,mixed,snowstorm,Christmas Markets,,PR
+Switzerland,Geneva – Lake Region,January,-1,5,9,snowy,low,mixed,snowfall,,,PR
+Switzerland,Geneva – Lake Region,February,0,7,8,snowy,low,mixed,snowfall,,,PR
+Switzerland,Geneva – Lake Region,March,2,12,9,mixed,shoulder,good,,,,PR
+Switzerland,Geneva – Lake Region,April,5,16,10,mixed,shoulder,good,,,,PR
+Switzerland,Geneva – Lake Region,May,9,21,12,sunny,high,best,,,,PR
+Switzerland,Geneva – Lake Region,June,13,25,11,sunny,high,best,,,,PR
+Switzerland,Geneva – Lake Region,July,15,27,9,sunny,high,best,,,,PR
+Switzerland,Geneva – Lake Region,August,15,27,9,sunny,high,best,,,,PR
+Switzerland,Geneva – Lake Region,September,11,22,9,sunny,high,best,,,,PR
+Switzerland,Geneva – Lake Region,October,7,16,10,mixed,shoulder,good,,,,PR
+Switzerland,Geneva – Lake Region,November,2,10,10,snowy,low,mixed,snowfall,,,PR
+Switzerland,Geneva – Lake Region,December,0,6,10,snowy,festive,mixed,snowstorm,Christmas Markets,,PR
+Switzerland,Zermatt – Alps,January,-7,1,6,snowy,low,poor,avalanche risk,,yes,PR
+Switzerland,Zermatt – Alps,February,-7,2,6,snowy,low,poor,avalanche risk,,yes,PR
+Switzerland,Zermatt – Alps,March,-4,6,5,snowy,shoulder,mixed,avalanche risk,,yes,PR
+Switzerland,Zermatt – Alps,April,-1,10,6,mixed,shoulder,mixed,,,yes,PR
+Switzerland,Zermatt – Alps,May,3,14,10,mixed,high,good,,,yes,PR
+Switzerland,Zermatt – Alps,June,7,18,10,sunny,high,best,,,yes,PR
+Switzerland,Zermatt – Alps,July,8,20,9,sunny,high,best,,,yes,PR
+Switzerland,Zermatt – Alps,August,8,20,10,sunny,high,best,,,yes,PR
+Switzerland,Zermatt – Alps,September,5,15,7,sunny,high,best,,,yes,PR
+Switzerland,Zermatt – Alps,October,1,11,7,mixed,shoulder,good,,,yes,PR
+Switzerland,Zermatt – Alps,November,-3,5,7,snowy,low,mixed,snowfall,,yes,PR
+Switzerland,Zermatt – Alps,December,-6,2,7,snowy,festive,mixed,snowstorm,Christmas Markets,yes,PR
+Switzerland,Lugano – South,January,1,7,6,cloudy,low,good,,,yes,PR
+Switzerland,Lugano – South,February,2,9,5,mixed,low,good,,,yes,PR
+Switzerland,Lugano – South,March,5,14,6,mixed,shoulder,good,,,yes,PR
+Switzerland,Lugano – South,April,9,17,10,mixed,shoulder,good,,,yes,PR
+Switzerland,Lugano – South,May,12,21,12,sunny,high,best,,,yes,PR
+Switzerland,Lugano – South,June,16,25,10,sunny,high,best,,,yes,PR
+Switzerland,Lugano – South,July,18,27,8,sunny,high,best,heatwave,,yes,PR
+Switzerland,Lugano – South,August,18,27,10,sunny,high,best,heatwave,,yes,PR
+Switzerland,Lugano – South,September,14,22,9,sunny,high,best,,,yes,PR
+Switzerland,Lugano – South,October,10,17,9,mixed,shoulder,good,,,yes,PR
+Switzerland,Lugano – South,November,6,12,10,mixed,low,good,,,yes,PR
+Switzerland,Lugano – South,December,2,8,6,cloudy,festive,good,,Christmas Markets,yes,PR
+Switzerland,Davos – East,January,-9,0,9,snowy,low,poor,avalanche risk,,yes,PR
+Switzerland,Davos – East,February,-9,1,8,snowy,low,poor,avalanche risk,,yes,PR
+Switzerland,Davos – East,March,-5,5,9,snowy,shoulder,mixed,avalanche risk,,yes,PR
+Switzerland,Davos – East,April,-2,8,9,mixed,shoulder,mixed,,,yes,PR
+Switzerland,Davos – East,May,2,13,12,mixed,high,good,,,yes,PR
+Switzerland,Davos – East,June,6,17,14,sunny,high,best,,,yes,PR
+Switzerland,Davos – East,July,8,19,14,sunny,high,best,,,yes,PR
+Switzerland,Davos – East,August,8,18,14,sunny,high,best,,,yes,PR
+Switzerland,Davos – East,September,4,14,10,sunny,high,best,,,yes,PR
+Switzerland,Davos – East,October,1,11,9,mixed,shoulder,good,,,yes,PR
+Switzerland,Davos – East,November,-4,5,10,snowy,low,mixed,snowfall,,yes,PR
+Switzerland,Davos – East,December,-7,1,10,snowy,festive,mixed,snowstorm,Christmas Markets,yes,PR
+Switzerland,Lucerne – Central,January,-2,4,10,snowy,low,mixed,snowfall,,yes,PR
+Switzerland,Lucerne – Central,February,-2,6,8,snowy,low,mixed,snowfall,,yes,PR
+Switzerland,Lucerne – Central,March,2,11,11,mixed,shoulder,good,,,yes,PR
+Switzerland,Lucerne – Central,April,5,15,11,mixed,shoulder,good,,,yes,PR
+Switzerland,Lucerne – Central,May,9,19,13,sunny,high,best,,,yes,PR
+Switzerland,Lucerne – Central,June,13,23,13,sunny,high,best,,,yes,PR
+Switzerland,Lucerne – Central,July,15,25,13,sunny,high,best,,,yes,PR
+Switzerland,Lucerne – Central,August,14,24,13,sunny,high,best,,,yes,PR
+Switzerland,Lucerne – Central,September,11,20,10,sunny,high,best,,,yes,PR
+Switzerland,Lucerne – Central,October,7,14,10,mixed,shoulder,good,,,yes,PR
+Switzerland,Lucerne – Central,November,2,8,10,snowy,low,mixed,snowfall,,yes,PR
+Switzerland,Lucerne – Central,December,-1,5,10,snowy,festive,mixed,snowstorm,Christmas Markets,yes,PR
 Thailand,Bangkok – Central,January,21,32,1,sunny,high,best,,,,
 Thailand,Bangkok – Central,February,23,33,1,sunny,high,best,,,,
 Thailand,Bangkok – Central,March,25,35,2,sunny,high,best,,,,
@@ -875,30 +875,30 @@ United Kingdom,Manchester – North England,September,10,16,11,cloudy,shoulder,g
 United Kingdom,Manchester – North England,October,7,12,15,rainy,shoulder,mixed,,,,
 United Kingdom,Manchester – North England,November,4,8,16,rainy,low,mixed,,,,
 United Kingdom,Manchester – North England,December,2,6,16,rainy,low,mixed,,Christmas Markets,,
-United Kingdom,Cardiff – Wales,January,2,8,15,rainy,low,mixed,,,,
-United Kingdom,Cardiff – Wales,February,2,8,13,rainy,low,mixed,,,,
-United Kingdom,Cardiff – Wales,March,3,10,14,cloudy,shoulder,good,,,,
-United Kingdom,Cardiff – Wales,April,4,13,12,mixed,shoulder,best,,,,
-United Kingdom,Cardiff – Wales,May,7,16,11,sunny,high,best,,,,
-United Kingdom,Cardiff – Wales,June,10,19,10,sunny,high,best,,,,
-United Kingdom,Cardiff – Wales,July,12,21,8,cloudy,high,good,,,,
-United Kingdom,Cardiff – Wales,August,12,21,9,cloudy,high,good,,,,
-United Kingdom,Cardiff – Wales,September,10,18,11,cloudy,shoulder,good,,,,
-United Kingdom,Cardiff – Wales,October,7,14,14,rainy,shoulder,mixed,,,,
-United Kingdom,Cardiff – Wales,November,4,10,16,rainy,low,mixed,,,,
-United Kingdom,Cardiff – Wales,December,2,8,16,rainy,low,mixed,,,,
-United Kingdom,Penzance – Cornwall,January,4,9,15,rainy,low,mixed,,,,
-United Kingdom,Penzance – Cornwall,February,4,9,12,rainy,low,mixed,,,,
-United Kingdom,Penzance – Cornwall,March,5,11,11,cloudy,shoulder,good,,,,
-United Kingdom,Penzance – Cornwall,April,6,13,9,mixed,shoulder,best,,,,
-United Kingdom,Penzance – Cornwall,May,9,16,8,sunny,high,best,,,,
-United Kingdom,Penzance – Cornwall,June,12,19,7,sunny,high,best,,,,
-United Kingdom,Penzance – Cornwall,July,14,20,7,sunny,high,best,,,,
-United Kingdom,Penzance – Cornwall,August,14,20,8,sunny,high,best,,,,
-United Kingdom,Penzance – Cornwall,September,12,18,9,cloudy,shoulder,good,,,,
-United Kingdom,Penzance – Cornwall,October,9,14,13,rainy,shoulder,mixed,,,,
-United Kingdom,Penzance – Cornwall,November,6,10,15,rainy,low,mixed,,,,
-United Kingdom,Penzance – Cornwall,December,4,9,15,rainy,low,mixed,,,,
+United Kingdom,Cardiff – Wales,January,2,8,15,rainy,low,mixed,,,yes,
+United Kingdom,Cardiff – Wales,February,2,8,13,rainy,low,mixed,,,yes,
+United Kingdom,Cardiff – Wales,March,3,10,14,cloudy,shoulder,good,,,yes,
+United Kingdom,Cardiff – Wales,April,4,13,12,mixed,shoulder,best,,,yes,
+United Kingdom,Cardiff – Wales,May,7,16,11,sunny,high,best,,,yes,
+United Kingdom,Cardiff – Wales,June,10,19,10,sunny,high,best,,,yes,
+United Kingdom,Cardiff – Wales,July,12,21,8,cloudy,high,good,,,yes,
+United Kingdom,Cardiff – Wales,August,12,21,9,cloudy,high,good,,,yes,
+United Kingdom,Cardiff – Wales,September,10,18,11,cloudy,shoulder,good,,,yes,
+United Kingdom,Cardiff – Wales,October,7,14,14,rainy,shoulder,mixed,,,yes,
+United Kingdom,Cardiff – Wales,November,4,10,16,rainy,low,mixed,,,yes,
+United Kingdom,Cardiff – Wales,December,2,8,16,rainy,low,mixed,,,yes,
+United Kingdom,Penzance – Cornwall,January,4,9,15,rainy,low,mixed,,,yes,
+United Kingdom,Penzance – Cornwall,February,4,9,12,rainy,low,mixed,,,yes,
+United Kingdom,Penzance – Cornwall,March,5,11,11,cloudy,shoulder,good,,,yes,
+United Kingdom,Penzance – Cornwall,April,6,13,9,mixed,shoulder,best,,,yes,
+United Kingdom,Penzance – Cornwall,May,9,16,8,sunny,high,best,,,yes,
+United Kingdom,Penzance – Cornwall,June,12,19,7,sunny,high,best,,,yes,
+United Kingdom,Penzance – Cornwall,July,14,20,7,sunny,high,best,,,yes,
+United Kingdom,Penzance – Cornwall,August,14,20,8,sunny,high,best,,,yes,
+United Kingdom,Penzance – Cornwall,September,12,18,9,cloudy,shoulder,good,,,yes,
+United Kingdom,Penzance – Cornwall,October,9,14,13,rainy,shoulder,mixed,,,yes,
+United Kingdom,Penzance – Cornwall,November,6,10,15,rainy,low,mixed,,,yes,
+United Kingdom,Penzance – Cornwall,December,4,9,15,rainy,low,mixed,,,yes,
 United Kingdom,Edinburgh – Scottish Lowlands,January,1.3,5.3,15,rainy,low,mixed,,,,
 United Kingdom,Edinburgh – Scottish Lowlands,February,1.2,5.8,12,rainy,low,mixed,,,,
 United Kingdom,Edinburgh – Scottish Lowlands,March,1.9,7.5,13,cloudy,shoulder,good,,,,
@@ -911,54 +911,54 @@ United Kingdom,Edinburgh – Scottish Lowlands,September,9.3,14.9,12,mixed,shoul
 United Kingdom,Edinburgh – Scottish Lowlands,October,6.8,11.5,13,rainy,shoulder,mixed,,,,
 United Kingdom,Edinburgh – Scottish Lowlands,November,3.7,7.8,14,rainy,low,mixed,,,,
 United Kingdom,Edinburgh – Scottish Lowlands,December,1.6,5.6,13,rainy,low,mixed,,Christmas Markets,,
-United Kingdom,Inverness – Scottish Highlands,January,0.7,4.7,13,snowy,low,poor,,,,PR
-United Kingdom,Inverness – Scottish Highlands,February,0.4,5.4,11,snowy,low,poor,,,,
-United Kingdom,Inverness – Scottish Highlands,March,1.4,7.5,12,mixed,low,mixed,,,,
-United Kingdom,Inverness – Scottish Highlands,April,3.3,10.4,12,mixed,shoulder,good,,,,
-United Kingdom,Inverness – Scottish Highlands,May,5.9,13.2,12,mixed,high,best,,,,
-United Kingdom,Inverness – Scottish Highlands,June,8.9,15.4,12,cloudy,high,best,,,,
-United Kingdom,Inverness – Scottish Highlands,July,10.9,17.3,12,cloudy,high,best,,,,
-United Kingdom,Inverness – Scottish Highlands,August,10.6,16.6,12,cloudy,high,best,,,,
-United Kingdom,Inverness – Scottish Highlands,September,8.9,14.6,11,cloudy,shoulder,good,,,,
-United Kingdom,Inverness – Scottish Highlands,October,5.9,11,12,rainy,low,mixed,,,,
-United Kingdom,Inverness – Scottish Highlands,November,2.9,7.3,11,snowy,low,poor,,,,
-United Kingdom,Inverness – Scottish Highlands,December,0.7,5,11,snowy,low,poor,,,,
-United Kingdom,Belfast – Northern Ireland,January,3.4,7,15,rainy,low,mixed,,,,PR
-United Kingdom,Belfast – Northern Ireland,February,3.2,7.2,13,rainy,low,mixed,,,,
-United Kingdom,Belfast – Northern Ireland,March,3.7,8.5,14,cloudy,shoulder,good,,,,
-United Kingdom,Belfast – Northern Ireland,April,5.4,10.5,14,mixed,shoulder,good,,,,
-United Kingdom,Belfast – Northern Ireland,May,7.8,13.2,15,mixed,high,best,,,,
-United Kingdom,Belfast – Northern Ireland,June,10.4,15.5,13,cloudy,high,best,,,,
-United Kingdom,Belfast – Northern Ireland,July,12.1,17,15,cloudy,festive,good,,Battle of the Boyne,,
-United Kingdom,Belfast – Northern Ireland,August,12.1,16.8,15,cloudy,high,good,,,,
-United Kingdom,Belfast – Northern Ireland,September,10.9,15.3,13,cloudy,shoulder,best,,,,
-United Kingdom,Belfast – Northern Ireland,October,8.7,12.4,14,rainy,shoulder,good,,,,
-United Kingdom,Belfast – Northern Ireland,November,5.8,9.3,15,rainy,low,mixed,,,,
-United Kingdom,Belfast – Northern Ireland,December,3.9,7.5,14,rainy,low,mixed,,Christmas Markets,,
+United Kingdom,Inverness – Scottish Highlands,January,0.7,4.7,13,snowy,low,poor,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,February,0.4,5.4,11,snowy,low,poor,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,March,1.4,7.5,12,mixed,low,mixed,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,April,3.3,10.4,12,mixed,shoulder,good,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,May,5.9,13.2,12,mixed,high,best,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,June,8.9,15.4,12,cloudy,high,best,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,July,10.9,17.3,12,cloudy,high,best,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,August,10.6,16.6,12,cloudy,high,best,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,September,8.9,14.6,11,cloudy,shoulder,good,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,October,5.9,11,12,rainy,low,mixed,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,November,2.9,7.3,11,snowy,low,poor,,,yes,PR
+United Kingdom,Inverness – Scottish Highlands,December,0.7,5,11,snowy,low,poor,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,January,3.4,7,15,rainy,low,mixed,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,February,3.2,7.2,13,rainy,low,mixed,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,March,3.7,8.5,14,cloudy,shoulder,good,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,April,5.4,10.5,14,mixed,shoulder,good,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,May,7.8,13.2,15,mixed,high,best,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,June,10.4,15.5,13,cloudy,high,best,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,July,12.1,17,15,cloudy,festive,good,,Battle of the Boyne,yes,PR
+United Kingdom,Belfast – Northern Ireland,August,12.1,16.8,15,cloudy,high,good,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,September,10.9,15.3,13,cloudy,shoulder,best,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,October,8.7,12.4,14,rainy,shoulder,good,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,November,5.8,9.3,15,rainy,low,mixed,,,yes,PR
+United Kingdom,Belfast – Northern Ireland,December,3.9,7.5,14,rainy,low,mixed,,Christmas Markets,yes,PR
 Vietnam,Hanoi – Northern,January,14,20,9,cloudy,festive,mixed,,Tet Holidays,,PR
-Vietnam,Hanoi – Northern,February,15,21,11,mixed,shoulder,good,,Tet Holidays,,
-Vietnam,Hanoi – Northern,March,18,24,14,mixed,shoulder,good,humidity,,,
-Vietnam,Hanoi – Northern,April,21,28,14,mixed,high,best,,,,
-Vietnam,Hanoi – Northern,May,24,32,16,mixed,high,good,heatwave,,,
-Vietnam,Hanoi – Northern,June,26,33,17,rainy,low,mixed,heatwave,,,
-Vietnam,Hanoi – Northern,July,26,33,18,rainy,low,poor,"heavy rain, typhoon risk",,,
-Vietnam,Hanoi – Northern,August,26,32,18,rainy,low,poor,"heavy rain, typhoon risk",,,
-Vietnam,Hanoi – Northern,September,24,31,15,rainy,shoulder,mixed,,,,
-Vietnam,Hanoi – Northern,October,22,29,12,mixed,shoulder,good,,,,
-Vietnam,Hanoi – Northern,November,19,26,9,sunny,high,best,,,,
-Vietnam,Hanoi – Northern,December,16,22,7,sunny,shoulder,good,,,,
+Vietnam,Hanoi – Northern,February,15,21,11,mixed,shoulder,good,,Tet Holidays,,PR
+Vietnam,Hanoi – Northern,March,18,24,14,mixed,shoulder,good,humidity,,,PR
+Vietnam,Hanoi – Northern,April,21,28,14,mixed,high,best,,,,PR
+Vietnam,Hanoi – Northern,May,24,32,16,mixed,high,good,heatwave,,,PR
+Vietnam,Hanoi – Northern,June,26,33,17,rainy,low,mixed,heatwave,,,PR
+Vietnam,Hanoi – Northern,July,26,33,18,rainy,low,poor,"heavy rain, typhoon risk",,,PR
+Vietnam,Hanoi – Northern,August,26,32,18,rainy,low,poor,"heavy rain, typhoon risk",,,PR
+Vietnam,Hanoi – Northern,September,24,31,15,rainy,shoulder,mixed,,,,PR
+Vietnam,Hanoi – Northern,October,22,29,12,mixed,shoulder,good,,,,PR
+Vietnam,Hanoi – Northern,November,19,26,9,sunny,high,best,,,,PR
+Vietnam,Hanoi – Northern,December,16,22,7,sunny,shoulder,good,,,,PR
 Vietnam,Ho Chi Minh City – Southern,January,22,32,2,sunny,festive,best,,Tet Holidays,,PR
-Vietnam,Ho Chi Minh City – Southern,February,23,33,2,sunny,festive,best,,Tet Holidays,,
-Vietnam,Ho Chi Minh City – Southern,March,24,34,5,sunny,high,good,heatwave,,,
-Vietnam,Ho Chi Minh City – Southern,April,25,35,10,rainy,shoulder,mixed,extreme heat,,,
-Vietnam,Ho Chi Minh City – Southern,May,25,34,18,rainy,low,poor,monsoon,,,
-Vietnam,Ho Chi Minh City – Southern,June,24,32,20,rainy,low,poor,monsoon,,,
-Vietnam,Ho Chi Minh City – Southern,July,24,32,21,rainy,low,poor,monsoon,,,
-Vietnam,Ho Chi Minh City – Southern,August,24,32,20,rainy,low,poor,monsoon,,,
-Vietnam,Ho Chi Minh City – Southern,September,24,31,19,rainy,low,mixed,,,,
-Vietnam,Ho Chi Minh City – Southern,October,23,31,17,rainy,shoulder,mixed,,,,
-Vietnam,Ho Chi Minh City – Southern,November,23,31,10,mixed,high,good,,,,
-Vietnam,Ho Chi Minh City – Southern,December,22,31,5,sunny,high,best,,,,
+Vietnam,Ho Chi Minh City – Southern,February,23,33,2,sunny,festive,best,,Tet Holidays,,PR
+Vietnam,Ho Chi Minh City – Southern,March,24,34,5,sunny,high,good,heatwave,,,PR
+Vietnam,Ho Chi Minh City – Southern,April,25,35,10,rainy,shoulder,mixed,extreme heat,,,PR
+Vietnam,Ho Chi Minh City – Southern,May,25,34,18,rainy,low,poor,monsoon,,,PR
+Vietnam,Ho Chi Minh City – Southern,June,24,32,20,rainy,low,poor,monsoon,,,PR
+Vietnam,Ho Chi Minh City – Southern,July,24,32,21,rainy,low,poor,monsoon,,,PR
+Vietnam,Ho Chi Minh City – Southern,August,24,32,20,rainy,low,poor,monsoon,,,PR
+Vietnam,Ho Chi Minh City – Southern,September,24,31,19,rainy,low,mixed,,,,PR
+Vietnam,Ho Chi Minh City – Southern,October,23,31,17,rainy,shoulder,mixed,,,,PR
+Vietnam,Ho Chi Minh City – Southern,November,23,31,10,mixed,high,good,,,,PR
+Vietnam,Ho Chi Minh City – Southern,December,22,31,5,sunny,high,best,,,,PR
 Vietnam,Da Nang/Hue/Hoi An – Central,January,18,24,13,cloudy,festive,good,,Tet Holidays,,
 Vietnam,Da Nang/Hue/Hoi An – Central,February,19,25,8,cloudy,festive,best,,tet Holidays,,
 Vietnam,Da Nang/Hue/Hoi An – Central,March,21,28,7,sunny,high,best,,,,

@@ -1,24 +1,24 @@
 {
   "files": {
     "airport": {
-      "version": "1.1.260622.8", 
-      "csv_url": "https://gist.github.com/monkii-developer/d74b85535bb16009b0331451e3cedc2e/raw/airport.csv"
+      "version": "1.1.260622.8",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data/airport.csv"
     },
     "checklist": {
-      "version": "1.260531.1", 
-      "csv_url": "https://gist.github.com/monkii-developer/c4a3983d6dcc8871241bf73ad69a7083/raw/checklist.csv"
+      "version": "1.260531.1",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data/checklist.csv"
     },
     "weather": {
-      "version": "1.0.260621.3", 
-      "csv_url": "https://gist.github.com/monkii-developer/ecfcb263caa15be33b6ba8540d263439/raw/weather.csv"
+      "version": "1.0.260709.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data/weather.csv"
     },
     "passport-index": {
-      "version": "1.10.0", 
-      "csv_url": "https://gist.github.com/monkii-developer/5a92fdce9f32b41d0ff650b38f07eefe/raw/passport-index.csv"
+      "version": "1.10.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data/passport-index.csv"
     },
     "currencies": {
       "version": "1",
-      "csv_url": "https://gist.github.com/monkii-developer/21f35e2d0cbb853d85ed979d22257ae9/raw/currencies.csv"
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data/currencies.csv"
     }
   }
 }
