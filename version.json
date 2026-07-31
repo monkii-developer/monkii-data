@@ -5,7 +5,7 @@
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/airport.csv"
     },
     "checklist": {
-      "version": "1.260531.1",
+      "version": "1.260731.0",
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/checklist.csv"
     },
     "weather": {
