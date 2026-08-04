@@ -1,20 +1,20 @@
 {
   "files": {
     "airport": {
-      "version": "1.1.260622.8",
-      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/airport.csv"
+      "version": "1.1.260804.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/airport.csv"
     },
     "checklist": {
-      "version": "1.260731.0",
-      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/checklist.csv"
+      "version": "1.1.260804.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/checklist.csv"
     },
     "weather": {
-      "version": "1.0.260718.0",
-      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/weather.csv"
+      "version": "1.1.260804.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/weather.csv"
     },
     "passport-index": {
-      "version": "1.10.0",
-      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/passport-index.csv"
+      "version": "1.1.260804.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/passport-index.csv"
     }
   }
 }
