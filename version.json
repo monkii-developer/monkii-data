@@ -9,8 +9,12 @@
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/checklist.csv"
     },
     "weather": {
-      "version": "1.1.260816.0",
+      "version": "1.1.260817.0",
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/weather.csv"
+    },
+    "quotes": {
+      "version": "1.1.260817.0",
+      "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/quotes.csv"
     },
     "passport-index": {
       "version": "1.1.260804.0",
