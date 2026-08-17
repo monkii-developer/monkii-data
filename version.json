@@ -13,7 +13,7 @@
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/weather.csv"
     },
     "quotes": {
-      "version": "1.1.260817.1",
+      "version": "1.1.260817.2",
       "csv_url": "https://cdn.jsdelivr.net/gh/monkii-developer/monkii-data@main/data/quotes.csv"
     },
     "passport-index": {
